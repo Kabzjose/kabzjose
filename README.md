@@ -53,18 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joseph9866&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabzjose&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabzjose&theme=dark&hide_border=true"/>
-</p>
-
----
 
 ## 🌱 Currently Learning
 
