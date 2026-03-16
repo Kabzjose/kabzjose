@@ -13,7 +13,7 @@
 ## 🚀 Professional Focus
 
 - 💻 Full-stack web application development (React + Node.js)
-- 🗄️ Database design, optimization and administration (PostgreSQL)
+- 🗄️ Database design, optimization and administration (PostgreSQL,MongoDB)
 - 🎨 UI/UX design — clean, user-friendly interfaces
 - 🔌 REST API development and testing
 - 🐧 Linux systems and command-line tooling
