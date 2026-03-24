@@ -66,17 +66,6 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joseph-ndungu-ab21293aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kabzjose">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Clean code, solid databases, and interfaces people actually enjoy using."</i> 🌿
-</p>
+📧 Email: josekabz00@gmail.com
+🌐 Portfolio: https://joseph-ndungu.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/joseph-ndungu-ab21293aa/
