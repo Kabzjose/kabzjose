@@ -73,4 +73,4 @@ Core competencies:
 
 Email: josekabz00@gmail.com  
 Portfolio: https://joseph-ndungu.vercel.app/  
-LinkedIn: https://www.linkedin.com/in/joseph-ndungu-ab21293aa/
+LinkedIn: https://www.linkedin.com/in/joseph-ndungu-k/
