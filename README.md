@@ -76,3 +76,15 @@ Core competencies:
 Email: josekabz00@gmail.com  
 Portfolio: https://joseph-ndungu.vercel.app/  
 LinkedIn: https://www.linkedin.com/in/joseph-ndungu-k/
+
+<div className="github-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lupah-T&show_icons=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Lupah-T"
+    alt="GitHub Streak"
+  />
+</div>
