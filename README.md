@@ -77,15 +77,7 @@ Email: josekabz00@gmail.com
 Portfolio: https://joseph-ndungu.vercel.app/  
 LinkedIn: https://www.linkedin.com/in/joseph-ndungu-k/
 
-<div className="github-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Lupah-T&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Lupah-T&theme=dark"
-    alt="GitHub Streak"
-  />
-</div>
-
+<img
+  src="https://streak-stats.demolab.com/?user=Lupah-T&theme=dark"
+  alt="GitHub Streak"
+/>
