@@ -1,86 +1,123 @@
-![Profile Views](https://komarev.com/ghpvc/?username=kabzjose&color=blue)
 
-<h1 align="center">Joseph Ndungu</h1>
 
-<p align="center">
-  <strong>Full-Stack Developer • Database Engineer • UI/UX-Focused Builder</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  I design and build scalable web applications with a strong emphasis on clean architecture,
-  database integrity, and intuitive user experience.
-</p>
+# Joseph Ndungu
 
----
+### Full-Stack Developer • Database Engineer • UI/UX-Focused Builder
 
-## Professional Profile
+I design and build scalable web applications with a strong emphasis on clean architecture, database integrity, and intuitive user experience.
 
-I specialize in building production-ready web systems across the full stack — from performant frontends to secure backend APIs and well-structured databases.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joseph-ndungu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-ndungu-k/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josekabz00@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=kabzjose&color=blue&style=for-the-badge)
 
-My focus is not just writing code, but engineering maintainable, scalable systems.
+</div>
 
-Core competencies:
-- Full-stack development (React, Node.js)
-- Relational and NoSQL database architecture
-- API design and authentication systems
-- Performance optimization and clean system design
-- Linux-based development workflows
-- Secure application architecture
+<br>
 
----
+## About Me
 
-## Technical Stack
+I specialize in building production-ready web systems across the full stack — from performant frontends to secure backend APIs and well-structured databases. My focus isn't just writing code, but engineering maintainable, scalable systems.
 
-### Frontend
+- 🔭 Currently focused on **containerized architecture** and **cloud deployment pipelines**
+- 🌱 Deepening expertise in **Next.js**, **React Native**, and **Azure Cloud**
+- 🛠️ Core strengths: full-stack development, database architecture, API design & authentication, performance optimization
+- 💬 Ask me about: React, Node.js, PostgreSQL, system design
+- 📫 Reach me at **josekabz00@gmail.com**
+
+<br>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & APIs
+</td>
+<td valign="top" width="50%">
+
+**Backend & APIs**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
-### Databases & Caching
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Databases & Caching**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Tooling
+</td>
+<td valign="top" width="50%">
+
+**Cloud, DevOps & Tooling**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
----
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Current Focus
 
-- Containerized application architecture
-- Cloud deployment pipelines (AWS, Vercel, Railway)
-- Mobile development with React Native
-- AI-powered web integrations
+- 🐳 Containerized application architecture
+- ☁️ Cloud deployment pipelines (**AWS**, **Azure**, **Vercel**, **Railway**)
+- 📱 Mobile development with **React Native**
+- 🤖 AI-powered web integrations
+- ⚡ Full-stack apps with **Next.js**
 
----
+<br>
 
-## Contact
+## GitHub Stats
 
-Email: josekabz00@gmail.com  
-Portfolio: https://joseph-ndungu.vercel.app/  
-LinkedIn: https://www.linkedin.com/in/joseph-ndungu-k/
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kabzjose&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabzjose&layout=compact&theme=dark&hide_border=true" width="35%" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kabzjose&theme=dark&hide_border=true" width="70%" />
 
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabzjose&theme=dark)
+<br>
 
+## Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-joseph--ndungu.vercel.app-blue?style=flat-square)](https://joseph-ndungu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Ndungu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joseph-ndungu-k/)
+[![Email](https://img.shields.io/badge/Email-josekabz00@gmail.com-red?style=flat-square&logo=gmail)](mailto:josekabz00@gmail.com)
+
+</div>
 
