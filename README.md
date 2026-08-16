@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # Joseph Ndungu
@@ -71,6 +69,17 @@ I specialize in building production-ready web systems across the full stack — 
 </td>
 <td valign="top" width="50%">
 
+**Payments & Fintech**
+
+![M-Pesa](https://img.shields.io/badge/M--Pesa-00A859?style=for-the-badge&logo=mpesa&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-0BA4DB?style=for-the-badge&logo=paystack&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2" width="100%">
+
 **Cloud, DevOps & Tooling**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -120,4 +129,3 @@ I specialize in building production-ready web systems across the full stack — 
 [![Email](https://img.shields.io/badge/Email-josekabz00@gmail.com-red?style=flat-square&logo=gmail)](mailto:josekabz00@gmail.com)
 
 </div>
-
