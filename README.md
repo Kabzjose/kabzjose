@@ -1,29 +1,31 @@
 <div align="center">
 
-# Joseph Ndungu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Joseph%20Ndungu&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Database%20Engineer%20%C2%B7%20UI%2FUX-Focused%20Builder&descSize=16&descAlignY=58" alt="Joseph Ndungu header" width="100%" />
 
-### Full-Stack Developer • Database Engineer • UI/UX-Focused Builder
+<a href="https://github.com/kabzjose">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B7CFF&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+web+systems;Clean+architecture.+Solid+databases.;Shipping+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA+to+the+world;Currently+exploring+containers+%26+the+cloud" alt="Typing animation" />
+</a>
 
-I design and build scalable web applications with a strong emphasis on clean architecture, database integrity, and intuitive user experience.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joseph-ndungu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-ndungu-k/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josekabz00@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=kabzjose&color=blue&style=for-the-badge)
+<a href="https://joseph-ndungu.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/joseph-ndungu-k/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" /></a>
+<a href="mailto:josekabz00@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=D14836&labelColor=161b22" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=kabzjose&label=PROFILE%20VIEWS&color=0d1117&labelColor=161b22&style=flat-square" alt="Profile views" />
 
 </div>
 
-<br>
+<br/>
 
 ## About Me
 
 I specialize in building production-ready web systems across the full stack — from performant frontends to secure backend APIs and well-structured databases. My focus isn't just writing code, but engineering maintainable, scalable systems.
 
-- 🔭 Currently focused on **containerized architecture** and **cloud deployment pipelines**
-- 🌱 Deepening expertise in **Next.js**, **React Native**, and **Azure Cloud**
-- 🛠️ Core strengths: full-stack development, database architecture, API design & authentication, performance optimization
-- 💬 Ask me about: React, Node.js, PostgreSQL, system design
-- 📫 Reach me at **josekabz00@gmail.com**
+-  Currently focused on **containerized architecture** and **cloud deployment pipelines**
+-  Deepening expertise in **Next.js**, **React Native**, and **Azure Cloud**
+-  Core strengths: full-stack development, database architecture, API design & authentication, performance optimization
+-  Ask me about: React, Node.js, PostgreSQL, system design
+- Reach me at **josekabz00@gmail.com**
 
 <br>
 
